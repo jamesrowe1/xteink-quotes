@@ -9,10 +9,10 @@ const bmp = require("bmp-js");
 
 // XTEINK X4 native portrait resolution
 const WIDTH = 480;
-const HEIGHT = 800;
+const HEIGHT = 801;
 
 // Number of sleep screens to make
-const QUOTE_COUNT = 100;
+const QUOTE_COUNT = 200;
 
 // Keep quotes reasonably short so they're readable
 const MIN_CHARS = 20;
