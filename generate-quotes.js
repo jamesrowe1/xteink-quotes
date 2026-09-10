@@ -12,7 +12,7 @@ const WIDTH = 480;
 const HEIGHT = 800;
 
 // Number of sleep screens to make
-const QUOTE_COUNT = 300;
+const QUOTE_COUNT = 200;
 
 // Keep quotes reasonably short so they're readable
 const MIN_CHARS = 20;
